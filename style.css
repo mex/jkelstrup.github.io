@@ -24,7 +24,7 @@ body
     width: 200px;
     height: 200px;
 
-    border-radius: 999px;
+    border-radius: 50%;
     background: url('http://gravatar.com/avatar/0204ebeed9ce42c56611aa452482d4ed?s=200.jpg');
     background-size: cover;
 }
